@@ -1,2 +1,1 @@
-# alx-low_level_programming
-alx low revel programing
+ 06 Pointers Arrays and String Tasks willmade here
